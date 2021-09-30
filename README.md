@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pelps12
-- 👀 I’m interested in Robotics and Artificial Intelligence
+- 👀 I’m interested in Robotics, Artificial Intelligence and Backend development
 - 🌱 I’m currently learning Python and C++
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me oluwapelps@gmail.com
