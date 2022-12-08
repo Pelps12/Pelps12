@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pelps12
 - 👀 I’m interested in Robotics, Artificial Intelligence and Backend development
-- 🌱 I’m currently learning Rust and Javascript
-- 💞️ I’m new to development so I would love to collaborate on open-source projects
+- 🌱 I’m currently learning Rust and Typescript
+- 💞️ I would love to collaborate on open-source projects
 - 📫 How to reach me oluwapelps@gmail.com
 
 <!---
