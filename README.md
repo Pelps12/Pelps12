@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pelps12
-- 👀 I’m interested in Robotics, Artificial Intelligence and Backend development
-- 🌱 I’m currently learning Rust and Typescript
+- 👀 I’m interested in Computer Architecture, and Embedded Systems
+- 🌱 I’m always learning Verilog, C and Typescript
 - 💞️ I would love to collaborate on open-source projects
 - 📫 How to reach me oluwapelps@gmail.com
 
